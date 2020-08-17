@@ -1,2 +1,2 @@
 # Pizzaria
-Repositório da sistema pizzaria js
+Repositório do sistema pizzaria js
